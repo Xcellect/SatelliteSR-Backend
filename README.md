@@ -111,7 +111,9 @@ Contributions are welcome! If you have suggestions or feature requests, please c
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-For questions or support, feel free to reach out:
-- Email: your-email@example.com
-- GitHub: [your-username](https://github.com/your-username)
+## The Team
+- Jasper Grant ([@JasperGrant](https://github.com/JasperGrant))
+- Aniq Elahi ([@Aniq-byte](https://github.com/Aniq-byte))
+- Paras Nath Seth ([@parass05](https://github.com/parass05))
+- Christian Simoneau ([@ChrisSimoneau](https://github.com/ChrisSimoneau))
+- Aishik Sanyal ([@Xcellect](https://github.com/Xcellect))
